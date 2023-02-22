@@ -6,7 +6,7 @@ public class JugadorEquipo {
 	
 	public static void main (String[] args) {
 		
-		JugarBalonmano jugador1 = new JugarBalonmano("Pau" , 20);
+		JugarBalonmano jugador1 = new JugarBalonmano("alfre" , 20);
 		
 		JugarBalonmano jugador2 = new JugarBalonmano("Luis" , 18);
 		

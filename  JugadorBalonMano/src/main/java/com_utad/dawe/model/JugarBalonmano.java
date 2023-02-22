@@ -43,11 +43,7 @@ public class JugarBalonmano {
 			
 		int sumatorio =0;
 		
-		while(anotacion ! = 0) {
-			
-			
-			
-		}
+		
 			
 			return estadistica;
 		}
