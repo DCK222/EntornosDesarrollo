@@ -10,7 +10,7 @@ public class JugadorEquipo {
 		
 		JugarBalonmano jugador2 = new JugarBalonmano("Luis" , 18);
 		
-		for (int i = 0; i < args.len; i++) {
+		for (int i = 0; i < args.length; i++) {
 			
 		}
 		
